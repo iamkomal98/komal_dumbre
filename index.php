@@ -16,6 +16,7 @@ body{width:610px;font-family:calibri;}
 </style>
 <script src="jquery-3.2.1.min.js" type="text/javascript"></script>
 <script>
+	//hi i am siddhesh
 function getState(val) {
 	$.ajax({
 	type: "POST",
