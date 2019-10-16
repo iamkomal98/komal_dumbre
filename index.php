@@ -61,7 +61,7 @@ foreach($results as $country) {
 <div class="row">
 <label>State:</label><br/>
 <select name="state" id="state-list" class="demoInputBox" onChange="getCity(this.value);">
-<option value="">Select State</option>
+<option value=""><b>Select State</b></option>
 </select>
 </div>
 <div class="row">
