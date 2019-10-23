@@ -43,7 +43,7 @@ function getCity(val) {
 </script>
 </head>
 <body>
-	<h1>This is my PHP page..</h1>
+	<p><h1>This is my PHP page..</h1></p>
 <div class="frmDronpDown">
 <div class="row">
 <label>Country:</label><br/>
